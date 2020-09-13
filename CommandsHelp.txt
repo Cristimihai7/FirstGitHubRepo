@@ -11,3 +11,6 @@ git log -p .
 git remote add origin https://github.com/Cristimihai7/FirstGitHubRepo.git
 git branch -M master
 git push -u origin master
+
+git newBranch
+git checkout newBranch  --switch to
