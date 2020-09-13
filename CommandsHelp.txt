@@ -7,3 +7,7 @@ git commit -m "comit description"
 git show head
 gitk
 git log -p .
+
+git remote add origin https://github.com/Cristimihai7/FirstGitHubRepo.git
+git branch -M master
+git push -u origin master
