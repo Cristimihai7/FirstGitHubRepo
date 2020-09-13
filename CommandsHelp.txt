@@ -1,0 +1,9 @@
+git init
+
+git add .
+
+git commit -m "comit description"
+
+git show head
+gitk
+git log -p .
